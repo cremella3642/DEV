@@ -1,0 +1,9 @@
+git config --global user.name "cremella3642"
+
+
+
+git config --global user.email "cremella3642@gmail.com"
+
+
+
+git clone 复制你刚才的clone链接
